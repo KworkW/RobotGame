@@ -1,0 +1,15 @@
+{
+    "name": "Game With Robot",
+    "short_name": "Game With Robot",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#C2CDD2",
+    "theme_color": "#fff",
+    "description": "",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-light.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
